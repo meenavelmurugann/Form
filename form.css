@@ -1,0 +1,49 @@
+.container {
+    width: 80%;
+    margin: auto;
+  }
+  
+  .row-1 {
+   display: flex; 
+    justify-content: space-between;
+    
+  }
+  
+  .input-style {
+    width: 450px;
+    height: 30px;
+  }
+  
+  .input-style2{
+    width: 100%;
+    height: 30px;
+  }
+  .textArea-style {
+    width: 100%;
+    height: 200px;
+  }
+  
+  .input-style3 {
+    width: 1003px;
+    height: 40px;
+  }
+  
+  .btn-style {
+    background-color:pink;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .btn-style:hover {
+    color: pink;
+    background-color: white;
+    border: 1px solid pink;
+  }
+  
+   
+
+
